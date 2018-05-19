@@ -1,1 +1,1 @@
-# mybatis-demo
+# mybatis-sample
